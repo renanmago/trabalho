@@ -1,0 +1,17 @@
+body{
+    background-color: #cac8c8;
+    
+}
+h1{
+    text-align: center;
+}
+.Ds, .DA, .MF{
+    justify-content: center;
+    display: inline-block;
+    width: 400px;
+    height: 100px;
+    margin: 50px;
+}
+h2{
+    text-align: center;
+}
